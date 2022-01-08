@@ -1,6 +1,6 @@
 # SMS Spam Detection Analysis - NLP
 
-**Complete Video Tutorial:** https://youtu.be/YklplKmCoUw
+
 
 # Dataset Information
 
