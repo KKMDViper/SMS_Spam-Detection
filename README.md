@@ -29,3 +29,9 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 <li>SVC
 <li>Random Forest
   
+  Best Model Accuracy: 98.27
+# Resouce links 
+  Repository used: 
+  https://github.com/aswintechguy/Machine-Learning-Projects/tree/master/SMS%20Spam%20Detection%20Analysis%20-%20NLP
+  
+  
